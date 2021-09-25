@@ -1,0 +1,6 @@
+C:\Repos\dependency-injection\BW.Test\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Repos\dependency-injection\BW.Test\obj\Debug\net5.0\BW.Test.csproj.AssemblyReference.cache
+C:\Repos\dependency-injection\BW.Test\obj\Debug\net5.0\BW.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\dependency-injection\BW.Test\obj\Debug\net5.0\BW.Test.AssemblyInfoInputs.cache
+C:\Repos\dependency-injection\BW.Test\obj\Debug\net5.0\BW.Test.AssemblyInfo.cs
+C:\Repos\dependency-injection\BW.Test\obj\Debug\net5.0\BW.Test.csproj.CoreCompileInputs.cache

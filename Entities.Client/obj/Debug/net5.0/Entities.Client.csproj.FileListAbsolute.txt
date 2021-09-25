@@ -1,0 +1,12 @@
+C:\Repos\dependency-injection\Entities.Client\bin\Debug\net5.0\Entities.Client.deps.json
+C:\Repos\dependency-injection\Entities.Client\bin\Debug\net5.0\Entities.Client.dll
+C:\Repos\dependency-injection\Entities.Client\bin\Debug\net5.0\ref\Entities.Client.dll
+C:\Repos\dependency-injection\Entities.Client\bin\Debug\net5.0\Entities.Client.pdb
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\Entities.Client.csproj.AssemblyReference.cache
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\Entities.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\Entities.Client.AssemblyInfoInputs.cache
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\Entities.Client.AssemblyInfo.cs
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\Entities.Client.csproj.CoreCompileInputs.cache
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\Entities.Client.dll
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\ref\Entities.Client.dll
+C:\Repos\dependency-injection\Entities.Client\obj\Debug\net5.0\Entities.Client.pdb
