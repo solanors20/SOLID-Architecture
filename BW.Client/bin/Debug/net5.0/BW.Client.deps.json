@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BW.Client/1.0.0": {
+        "dependencies": {
+          "DA.Client": "1.0.0",
+          "Entities.Client": "1.0.0"
+        },
+        "runtime": {
+          "BW.Client.dll": {}
+        }
+      },
+      "DA.Client/1.0.0": {
+        "dependencies": {
+          "Entities.Client": "1.0.0"
+        },
+        "runtime": {
+          "DA.Client.dll": {}
+        }
+      },
+      "Entities.Client/1.0.0": {
+        "runtime": {
+          "Entities.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BW.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DA.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

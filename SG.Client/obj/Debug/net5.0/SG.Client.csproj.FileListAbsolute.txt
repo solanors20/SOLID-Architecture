@@ -1,0 +1,15 @@
+C:\Repos\dependency-injection\SG.Client\bin\Debug\net5.0\SG.Client.deps.json
+C:\Repos\dependency-injection\SG.Client\bin\Debug\net5.0\SG.Client.dll
+C:\Repos\dependency-injection\SG.Client\bin\Debug\net5.0\ref\SG.Client.dll
+C:\Repos\dependency-injection\SG.Client\bin\Debug\net5.0\SG.Client.pdb
+C:\Repos\dependency-injection\SG.Client\bin\Debug\net5.0\Entities.Client.dll
+C:\Repos\dependency-injection\SG.Client\bin\Debug\net5.0\Entities.Client.pdb
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.csproj.AssemblyReference.cache
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.AssemblyInfoInputs.cache
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.AssemblyInfo.cs
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.csproj.CoreCompileInputs.cache
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.csproj.CopyComplete
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.dll
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\ref\SG.Client.dll
+C:\Repos\dependency-injection\SG.Client\obj\Debug\net5.0\SG.Client.pdb
